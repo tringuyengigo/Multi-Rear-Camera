@@ -1,0 +1,2 @@
+rootProject.name = "Multi-Rear-Camera"
+include ':app'
